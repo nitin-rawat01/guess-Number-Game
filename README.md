@@ -4,27 +4,28 @@
 
 ## A Simple Game- Guess a Random Number.
 
-#### This web page is hosted [here!](https://nitin-rawat01.github.io/toDo-List/)
+#### This web page is hosted [here!]( https://nitin-rawat01.github.io/guess-Number-Game/)
 
 
 ### *Features*:
-
 * User-friendly
-* Simple user face.
+* Simple user interface.
+* Show previous guesses and keep count of number of attempts left.
 
 # *References*
 
 * For Fonts: [Google Fonts](https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap)
-* For Basic Icons (like Trash and Check buttons): [font-awesome](https://fontawesome.com)
 * For help with HTML: [HTML](https://html.com/)
 * For help with CSS: [CSS Tricks](https://css-tricks.com/)
 * For help with Javascript (Tutorial): [Chai aur Code](https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37)
 
 ## *WEBSITE DEMO*
 
-![todoScreenshot1](https://github.com/user-attachments/assets/aa6fe42f-89b6-4e92-82df-c01a634cc367)
+![gameScreenShot-1](https://github.com/user-attachments/assets/eb2ff6fd-953d-4db4-823d-6b50908f3a30)
 
-![todoScreenshot2](https://github.com/user-attachments/assets/c517cc91-53b0-43e3-a93b-bcceeddaf224)
+![gameScreenShot-2](https://github.com/user-attachments/assets/67d1a2b3-8a25-4852-9be5-4d686465900b)
+
+![gameScreenShot-3](https://github.com/user-attachments/assets/f6ac0ae3-57d4-440b-bfca-8d8a12f047fd)
 
 ## Contact
 
