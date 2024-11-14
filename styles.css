@@ -1,0 +1,40 @@
+
+#wrapper{
+    /* border: 5px solid white; */
+    text-align: center;
+}
+h1{
+    font-size: 3rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.despcription{
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#guess{
+   display: block;
+   font-size: 3rem;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#guessField{
+    display: block;
+    margin: 10px auto;
+    width: 20%;
+    height: 35px;
+    font-size: 2rem;
+    text-align: center;
+}
+#subt{
+    width: 10%;
+    height: 40px;
+    font-size: 22px;
+    border: 3px solid grey;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.resultParas{
+    font-size: 2rem;
+}
+
+
