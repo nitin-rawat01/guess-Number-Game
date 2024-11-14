@@ -1,4 +1,6 @@
-
+*, ::before, ::after{
+    box-sizing: border-box;
+}
 #wrapper{
     /* border: 5px solid white; */
     text-align: center;
